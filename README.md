@@ -5,7 +5,7 @@ A note taking app that allows the user to write, save, and delete notes.
 
 ## Installation 
 #
-This app was created using node.js and npm installations such as express. HTML, CSS, and frameworks such as boostrap were used as well. 
+This app was created using node.js and npm installations such as express. HTML, CSS, and frameworks such as boostrap were used as well. The last step was to deploy the app through Heroku.
 
 ## Usage
 #
