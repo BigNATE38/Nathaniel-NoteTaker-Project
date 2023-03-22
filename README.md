@@ -19,6 +19,6 @@ Credit goes to UCI for providing front end starter code.
 N/A
 ## Deployment 
 #
-(https://drive.google.com/file/d/12bUwwzmBUr4qrva99o-GJ15YCBa6s_uZ/view?usp=sharing)
+
 ![SiteImage](images/Note-Taker-Pic1.png)
 ![SiteImage](images/Note-Taker-Pic2.png)
